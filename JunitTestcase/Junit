@@ -1,0 +1,14 @@
+Test Case ID -1
+Test Summary - Video call between 2 users
+Test Steps:-
+Open Whatsapp                                    Whatsapp shuld be opened
+Go to video call tab                             Open video call tab
+Go to contact and select user                    User Selected
+Click on video call button                       Video call should be cicked
+Check if call is connected or not                Call should be connected              
+Check if audio and video is working              Audio and video should work properly
+Check for no buffering                           No buffering
+Prerequisite- Whatsapp app and 2 registered users
+Browser- Chrome
+Test Data- 2 registered users on whatsapp
+Result- Whatsapp video call working properly
