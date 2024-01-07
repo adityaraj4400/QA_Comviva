@@ -1,0 +1,30 @@
+Defect ID - 1
+Descriptive defect name and type - Add account button is not working
+Defect severity - High severity
+Defect priority - High priority
+Defect status - Open
+Detailed description, including the steps necessary to reproduce the defect 
+- Add account button is not working so that is any user want to add a new account then he will be unable to add the account.
+Screen prints, logs, etc., that will aid the developer in the resolution process
+Steps
+1. open the website home page
+2. Click on login
+3. Click on add account button on landing page
+4. This button is not working
+
+
+Defect ID - 2
+Descriptive defect name and type - Search not working
+Defect severity - Medium severity
+Defect priority - Medium priority
+Defect status - Open
+Detailed description, including the steps necessary to reproduce the defect 
+- Search is not working 
+Screen prints, logs, etc., that will aid the developer in the resolution process
+Steps
+1. open the website home page
+2. Click on login
+3. Click on search button on navbar
+4. it is not working
+
+
